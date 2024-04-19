@@ -8,3 +8,10 @@ roms/ds
 roms/dream
 roms/saturn
 roms/mame
+
+# Certain games
+Conker's Bad Fur Day (USA).z64
+
+# Backup and old files
+*.bak
+*.old
